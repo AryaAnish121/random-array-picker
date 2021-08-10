@@ -1,6 +1,6 @@
 {
   "name": "random-array-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a package that allows you to pick a random number or a string from an array",
   "main": "app.js",
   "scripts": {
