@@ -1,6 +1,6 @@
 ![Small Size](https://img.shields.io/badge/size-799B-green)
 
-![Version 1.0](https://img.shields.io/badge/version-v1.0.1-blue)
+![Version 1.0.1](https://img.shields.io/badge/version-v1.0.1-blue)
 
 # random-array-picker
 
